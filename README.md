@@ -1,4 +1,4 @@
-# Data Mining and Machine Learning 
+# Course Archive of Data Mining and Machine Learning 2022
 ## University of Lausanne, HEC
 
 **Instructor and author**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
