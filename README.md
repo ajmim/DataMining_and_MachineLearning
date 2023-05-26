@@ -1,7 +1,7 @@
 # Data Mining and Machine Learning 
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
+**Instructor and author**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
 
 This repository includes content for the "Data Mining and Machine Learning".
 
